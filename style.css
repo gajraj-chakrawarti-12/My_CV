@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    display: flex;
+    
+}
+#first{
+    background-color: rgb(100, 92, 80);
+    width: 30%;    
+}
+#img_001{
+    display: flex;
+    justify-content: center;
+    margin: 5% 0%;
+}
+img{
+    width: 50%;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 5% 0%;
+}
+.firstInner{
+    margin: 20% 3%;
+    color: rgb(211, 186, 186);
+}
+#second{
+    background-color: rgb(213, 221, 134);
+    width: 70%;
+}
+#name{
+    text-align: center;
+    margin: 2% 0%;
+}
+.secondInner{
+    margin: 5% 2%;
+}
+ul{
+    margin-left: 10%;
+}
