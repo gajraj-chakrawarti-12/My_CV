@@ -22,7 +22,7 @@ img{
     margin: 5% 0%;
 }
 .firstInner{
-    margin: 20% 3%;
+    margin: 10% 3%;
     color: rgb(211, 186, 186);
 }
 #second{
@@ -32,9 +32,10 @@ img{
 #name{
     text-align: center;
     margin: 2% 0%;
+    text-decoration : underline;
 }
 .secondInner{
-    margin: 5% 2%;
+    margin: 2% 2%;
 }
 ul{
     margin-left: 10%;
