@@ -20,6 +20,8 @@ img{
     border: 2px solid black;
     border-radius: 50%;
     margin: 5% 0%;
+    aspect-ratio: 1/1;
+    object-fit:cover;
 }
 .firstInner{
     margin: 10% 3%;
